@@ -68,7 +68,7 @@ function App() {
         clearInterval(pollingInterval);
       }
     };
-  }, []);
+  }, [pollingInterval]);
 
   // Set up polling for updates once bracket is loaded
   useEffect(() => {
