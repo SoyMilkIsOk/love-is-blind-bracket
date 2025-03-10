@@ -105,11 +105,11 @@ const faunaQueries = {
               name: 'Love is Blind Season 8',
               currentEpisode: 1,
               couples: [
-                {id: 1, names: "Brittany and Leo"},
-                {id: 2, names: "Marissa and Tyler"},
-                {id: 3, names: "Ramses and Monica"},
-                {id: 4, names: "Garrett and Taylor"},
-                {id: 5, names: "Nick and Olivia"}
+                {id: 1, names: "Joey and Monica"},
+                {id: 2, names: "Ben and Sara"},
+                {id: 3, names: "Dave and Lauren"},
+                {id: 4, names: "Devin and Virginia"},
+                {id: 5, names: "Daniel and Taylor"}
               ],
               createdAt: new Date().toISOString()
             }
